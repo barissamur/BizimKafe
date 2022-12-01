@@ -20,7 +20,6 @@ namespace BizimKafe.UI.Forms
             InitializeComponent();
             VerileriYukle();
             MasalariOlustur();
-
         }
 
         private void VerileriYukle()
